@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/sunnyside-landing-page-eQ5CBmznON)
-- Live Site URL: [Add live site URL here](https://ramroman163.github.io/sunnyside-landing-page/)
+- Solution URL: (https://www.frontendmentor.io/solutions/sunnyside-landing-page-eQ5CBmznON)
+- Live Site URL: (https://ramroman163.github.io/sunnyside-landing-page/)
 
 ## My process
 
